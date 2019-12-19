@@ -1,0 +1,57 @@
+{
+    "name": "Catch Software",
+    "description": "Enterprise Tester | JIRA | Confluence | Enterprise Architect for innovation, quality and test.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18602-catch-software.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/catch-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Catch Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18602-catch-software.jpg",
+            "humanURL": "http:\/\/catchsoftware.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/catch-software-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/catchsoftware.com\/blogs\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/catchsoftware.com\/blogs\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/catch"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/catch-software"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/catchsoftware"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/catchsoftware.com\/"
+        }
+    ]
+}
